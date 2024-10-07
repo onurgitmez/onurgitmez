@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @onurgitmez
 - 👀 I’m interested in Quantitative and Computational Social Science
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Election Analysis
 - 📫 How to reach me @alionurgitmez on Twitter
 
